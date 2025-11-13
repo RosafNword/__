@@ -100,6 +100,12 @@ setData("name", data['name'].toUpperCase());
 setData("surname", data['surname'].toUpperCase());
 setData("nationality", data['nationality'].toUpperCase());
 setData("birthday", birthday);
+setData("fatherName", data['father_name'] || '');
+setData("motherName", data['mother_name'] || '');
+// mDowód: seria i daty (wartości dostarczone przez gen.html)
+setData("mdow_series", data['mdow_series'] || data['mdowSeries'] || '');
+setData("issue_date", data['issue_date'] || data['issueDate'] || '');
+setData("expiry_date", data['expiry_date'] || data['expiryDate'] || '');
 setData("familyName", data['familyName']);
 setData("sex", sex);
 setData("fathersFamilyName", data['fathersFamilyName']);
