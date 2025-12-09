@@ -14,14 +14,14 @@ input::-webkit-inner-spin-button {
 
 
 :root{
-    --home: url(.\assets\dol\IpITRfg.png);
-    --home-open: url(.\assets\dol\ji8YOOr.png);
-    --services: url(.\assets\dol\ck28bKp.png);
-    --services-open: url(.\assets\dol\tYOZsid.png);
-    --qr: url(.\assets\dol\uvu5eLo.png);
-    --qr-open: url(.\assets\dol\YJGX3eL.png);
-    --more: url(.\assets\dol\eNy4kUx.png);
-    --more-open: url(.\assets\dol\sLfN9li.png);
+    --home: url(./assets/dol/IpITRfg.png);
+    --home-open: url(./assets/dol/ji8YOOr.png);
+    --services: url(./assets/dol/ck28bKp.png);
+    --services-open: url(./assets/dol/tYOZsid.png);
+    --qr: url(./assets/dol/uvu5eLo.png);
+    --qr-open: url(./assets/dol/YJGX3eL.png);
+    --more: url(./assets/dol/eNy4kUx.png);
+    --more-open: url(./assets/dol/sLfN9li.png);
     --text: #4aa2fc;
     --font: #ffffff;
     --font2: black;
